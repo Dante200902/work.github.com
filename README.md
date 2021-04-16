@@ -1,2 +1,2 @@
-# work.github.com
+# work.github.io
 Pruebas html
